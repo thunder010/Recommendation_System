@@ -5,5 +5,5 @@ matplotlib==3.8.2
 seaborn==0.13.2
 tensorflow==2.11.0
 requests==2.32.3
-streamlit==x.x.x
+streamlit==1.43.0
 
