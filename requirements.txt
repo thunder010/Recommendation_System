@@ -415,7 +415,6 @@ tensorflow==2.11.0
 tensorflow-estimator==2.11.0
 tensorflow-gpu==2.11.0
 tensorflow-io-gcs-filesystem==0.37.1
-tensorrt @ file:///home/thunder/TensorRT-8.4.3.1/python/tensorrt-8.4.3.1-cp310-none-linux_x86_64.whl#sha256=d57f947070c527a4b6a9d2f9d02db7b99fdb989f0e3830ec32d029eb26b8874e
 termcolor==2.5.0
 terminado==0.18.1
 text-unidecode==1.3
